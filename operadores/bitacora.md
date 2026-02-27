@@ -1,3 +1,9 @@
-En el día proceso del día a día, hacemos muchops procesos logicos inconcientemente  
-a la computadora se le debe digitar paso por paso, a traves de los comandos que tiene 
-en la biblioteca de cada dieseñador de código 
+## ejercisio 1
+
+![alt text](<Captura de pantalla 2026-02-27 145810.png>)
+
+## ejercisio 2
+
+![alt text](<Captura de pantalla 2026-02-27 152758.png>)
+
+## ejerfcisio 3
