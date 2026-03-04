@@ -1,2 +1,3 @@
-altura_visitante = float(input("ingrese su altura en centimetros"))
-altura_minima = 150
+altura_visitante = 160  
+puede_subir = altura_visitante >= 150
+print(puede_subir)
