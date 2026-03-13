@@ -1,4 +1,3 @@
-
 capacidad_inicial = 158790 
 consumo_base = 6             
 ajuste = 0.16         
